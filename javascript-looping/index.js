@@ -64,7 +64,7 @@ while (konfirmasi) {
   if (konfirmasi) {
     count++;
   } else {
-    console.log(`Perulangan sudah dilakukan sebanyak ${count}`);
+    alert(`Perulangan sudah dilakukan sebanyak ${count}`);
   }
 }
 
