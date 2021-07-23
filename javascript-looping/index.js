@@ -82,7 +82,7 @@ Misal bener, break
 
 */
 
-let input = prompt("Sebutkan kepanjangan dari nama IB (Impact Byte)?");
+let input = prompt("Sebutkan kepanjangan dari nama IB ?");
 
 while (input) {
   if (input === "Impact Byte") {
